@@ -14,7 +14,7 @@ else:
 # machinery.
 builtins.__GRAPHQL_SETUP__ = True
 
-version = 1.0kev
+version = '1.0kev'
 
 setup(
     name='graphql-core',
