@@ -14,7 +14,7 @@ else:
 # machinery.
 builtins.__GRAPHQL_SETUP__ = True
 
-version = __import__('graphql').get_version()
+version = 1.0kev
 
 setup(
     name='graphql-core',
